@@ -1,0 +1,143 @@
+//	
+.dashboard {
+  height: 21px;
+  width: 78px;
+  color: #33353B;
+  font-family: "Futura PT";
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+.mx-manager {
+  height: 37px;
+  width: 157px;
+  color: #33353B;
+  font-family: "Futura PT";
+  font-size: 28.5px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 37px;
+  text-align: center;
+}
+.welcome-to-mx-manage {
+  height: 26px;
+  width: 222px;
+  color: #33353B;
+  font-family: "Futura PT";
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 26px;
+}	
+.label-btn{
+  height: 21px;
+  width: 188.29px;
+  color: #FFFFFF;
+  font-family: "Futura PT";
+  font-size: 16px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 21px;
+  text-align: center;
+}
+.previous-round {
+  height: 18px;
+  width: 90px;
+  font-family: "Futura PT";
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+.flag-icon {
+  height: 14px;
+  width: 14px;
+}
+.banner {
+  height: 153px;
+  width: 375px;
+}
+.user-welcome-stat-bar {
+  height: 93px;
+  width: 343px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+}
+.blue-btn {
+  height: 48px;
+  width: 344px;
+  border-radius: 3px;
+  background-color: #0D51EE;
+}
+.red-btn	 {
+  height: 48px;
+  width: 311px;
+  border-radius: 3px;
+  background-color: #F15A56;
+}
+.selecter {
+  height: 48px;
+  width: 311px;
+  border-radius: 3px;
+  background-color: #F15A56;
+}	
+.background-colour {
+  height: 53px;
+  width: 375px;
+  background-color: #F5F6F7;
+}
+over//
+.oval {
+  box-sizing: border-box;
+  height: 49px;
+  width: 49px;
+  border: 1px solid #979797;
+}
+.my-team-name {
+  height: 29px;
+  width: 144px;
+  color: #33353B;
+  font-family: "Futura PT";
+  font-size: 22.5px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 29px;
+}
+.entries-close-on-sun {
+  height: 32px;
+  width: 217px;
+  color: #33353B;
+  font-family: "Futura PT";
+  font-size: 12px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 16px;
+  text-align: center;
+}
+.rectangle {
+  box-sizing: border-box;
+  height: 52px;
+  width: 313px;
+  border: 1px solid #FAB33C;
+  border-radius: 3px;
+  background-color: #F8E9D0;
+}
+.inputs-select-menu-label-none- {
+  height: 48px;
+  width: 280px;
+}
+btn-vang
+.position-notifier {
+  height: 34px;
+  width: 160px;
+}
+.team {
+  height: 16px;
+  width: 33px;
+  color: #FFFFFF;
+  font-family: "Futura PT";
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.7px;
+  line-height: 16px;
+}
